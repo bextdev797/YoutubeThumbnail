@@ -1,2 +1,3 @@
-# YoutubeThumbnail
-It's ready but actually it's Beta Extension.
+## YoutubeThumbnail
+
+An App Inventor 2 extension created using Rush.
